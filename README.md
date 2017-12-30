@@ -1,7 +1,11 @@
 Node.php
 ========
 
+Writer's Notes:
 Ever wanted to deploy a node.js web app but didn't have money for a dedicated node.js hosting or didn't have time to set up a cloud PaaS? Have an existing PHP shared hosting based on the LAMP stack? Now you can run node.js on top of it!
+
+Next Steps: 
+Build a wrapper and GUI for this application
 
 Node.php originates from my ealier [answer on Stack Overflow](http://stackoverflow.com/questions/24777750/how-to-host-a-node-js-application-in-shared-hosting/27391738#27391738).
 
